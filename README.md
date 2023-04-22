@@ -1,2 +1,2 @@
-# golang_playground
+# golang playground
 Playground for Learning Golang
